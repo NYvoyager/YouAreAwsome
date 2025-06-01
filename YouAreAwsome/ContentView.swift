@@ -14,11 +14,11 @@ struct ContentView: View {
                 .resizable()
                 .scaledToFit()
                 .foregroundStyle(.orange)
-            Text("I am an App Developer!")
+            Text("I am Awesome!")
+            
                 .font(.largeTitle)
                 .fontWeight(.heavy)
                 .foregroundStyle(.red)
-            
         }
         .padding()
     }
